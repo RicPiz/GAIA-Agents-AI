@@ -1,0 +1,15 @@
+beautifulsoup4
+ddgs
+gradio
+langchain
+langchain-core
+langchain-openai
+openai-whisper
+pandas
+Pillow
+PyPDF2
+pytesseract
+python-dotenv
+requests
+wikipedia
+yt-dlp
