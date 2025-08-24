@@ -13,7 +13,7 @@ This repository contains an AI agent designed to solve Level 1 questions from th
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gaia-agents-ai.git
+   git clone https://github.com/RicPiz/GAIA-Agents-AI.git
    cd gaia-agent
    ```
 
