@@ -13,7 +13,7 @@ This repository contains an AI agent designed to solve Level 1 questions from th
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/gaia-agent.git
+   git clone https://github.com/yourusername/gaia-agents-ai.git
    cd gaia-agent
    ```
 
@@ -46,22 +46,6 @@ This repository contains an AI agent designed to solve Level 1 questions from th
 5. Click "Submit Cached Answers" to send results to the scoring API.
 
 The app will display status updates and a table of questions, answers, and tools used.
-
-## Dependencies
-
-See `requirements.txt` for the full list of packages. Key dependencies include:
-- `langchain` and `langgraph` for agent orchestration.
-- `gradio` for the web interface.
-- `openai` and `whisper` for LLM and audio processing.
-- `duckduckgo-search`, `wikipedia`, and others for information retrieval.
-
-## Project Structure
-
-- `app.py`: Main Gradio application and evaluation runner.
-- `agents.py`: Core agent logic using LangGraph.
-- `model.py`: LLM configuration and system prompt.
-- `tools.py`: Custom tools for search, file handling, etc.
-- `requirements.txt`: List of dependencies.
 
 ## License
 
